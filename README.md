@@ -7,5 +7,7 @@ All of the source code for the original executable is included but the voice rec
 
 All art, such as textures and 3D models, were created by myself or used with permission from "CHAINSAW".  The source for the art assets has also been included ArtAssets.zip. The audio files of the TV series that were included in the original executable have been removed from this repository to ensure it contains no copyrighted files.
 
-Here is a video review of VR Bridge Demo back in 2014:
-[![Watch the video](https://img.youtube.com/vi/ulYLzGj4JbE/maxresdefault.jpg)](https://youtu.be/ulYLzGj4JbE)
+Below is a video review of the demo by eVRydayVR back in 2014.
+
+[![Watch Video](http://img.youtube.com/vi/ulYLzGj4JbE/0.jpg)](http://www.youtube.com/watch?v=ulYLzGj4JbE)
+<br/>https://www.youtube.com/watch?v=ulYLzGj4JbE
