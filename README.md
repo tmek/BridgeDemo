@@ -1,4 +1,4 @@
-# BridgeDemo
+# Starship Bridge Demo
 VR Starship Bridge Demo (Built with Unreal Engine 4 for Oculus DK1)
 
 A lot of people have asked me to do a re-release for updated headsets but I never found the time to work on it so I'm releasing the source in case someone wants to give it some love. While it was a really fun personal project it is admittedly very poorly coded and was originally built with one of the very earliest versions of UE4 and C++. There are likely going to be issues but I updated the source enough so that it will build and open with Unreal Engine 4.21.1 and Visual Studio Community Edition.
